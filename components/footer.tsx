@@ -59,15 +59,15 @@ export default function Footer() {
           <ul className="space-y-4 py-3 text-lg">
             <li className="flex flex-row  space-x-5 items-center text-neutral-300">
               <SlLocationPin className="text-neutral-300" size={30} />
-              <p> 203 Fake St. Dar es Salaam, Tanzania</p>
+              <p> Dar es Salaam, Tanzania</p>
             </li>
             <li className="flex flex-row  space-x-5 items-center text-neutral-300">
               <SlPhone className="text-neutral-300" size={25} />
-              <p> +255 392 3929 210</p>
+              <p> +255 687129693</p>
             </li>
             <li className="flex flex-row  space-x-5 items-center text-neutral-300">
               <SlEnvolope className="text-neutral-300" size={25} />
-              <p> dulab@gmail.com</p>
+              <p> abdulkarimabbas088@gmail.com</p>
             </li>
           </ul>
         </div>
